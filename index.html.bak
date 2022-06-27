@@ -4,5 +4,11 @@
 	<h1>Hola Mundo</h1>
 	<br>
 	<h1>Que tal</h1>
+	<p>699600900</p>
+	<script>
+    window.onload = function () {
+      console.log("function called...");
+    }
+  </script>
 </body>	
 </html>
