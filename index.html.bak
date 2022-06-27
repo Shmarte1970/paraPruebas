@@ -7,7 +7,7 @@
 	<p>699600900</p>
 	<script>
     window.onload = function () {
-      console.log("function called...");
+      alert("function called...");
     }
   </script>
 </body>	
